@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafDemo", "CafDemo.csproj", "{5DA54AD0-0443-41CE-9F0E-9D7B2F929F3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DA54AD0-0443-41CE-9F0E-9D7B2F929F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA54AD0-0443-41CE-9F0E-9D7B2F929F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA54AD0-0443-41CE-9F0E-9D7B2F929F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA54AD0-0443-41CE-9F0E-9D7B2F929F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3018D187-5463-4F6A-8F15-961B82D8CC58}
+	EndGlobalSection
+EndGlobal
